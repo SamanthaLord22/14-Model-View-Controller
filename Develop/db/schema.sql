@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS techPage_db;
+CREATE DATABASE techPage_db;
