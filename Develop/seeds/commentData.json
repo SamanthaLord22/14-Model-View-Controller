@@ -1,0 +1,14 @@
+[
+    {
+      "user_id": 1,
+      "comment_description": "Study often."
+    },
+    {
+      "user_id": 2,
+      "comment_description": "Learn new skills."
+    },
+    {
+      "user_id": 3,
+      "comment_description": "Ask for help."
+    }
+  ]
